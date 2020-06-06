@@ -25,6 +25,7 @@ class CoffeeMachine:
                 self.money += 7
                 self.milk -= 75
                 self.cups_amount -= 1
+                print("I have enough resources, making you a coffee!")
             else:
                 print("ERROR: not enough ingredients")
         elif coffee_id == '3':
@@ -34,6 +35,7 @@ class CoffeeMachine:
                 self.money += 6
                 self.milk -= 100
                 self.cups_amount -= 1
+                print("I have enough resources, making you a coffee!")
             else:
                 print("ERROR: not enough ingredients")
         elif coffee_id == "back":
