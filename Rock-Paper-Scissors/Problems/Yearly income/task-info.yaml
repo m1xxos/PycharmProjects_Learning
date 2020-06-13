@@ -1,0 +1,15 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: '# write your code here'
+  learner_created: false
+- name: salary.txt
+  visible: true
+  learner_created: true
+- name: salary_year.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8707
+status: Solved
+record: -1
