@@ -75,6 +75,8 @@ topics:
   1:
   - title: Introduction to OOP
     theory_id: 3614
+  - title: Inheritance
+    theory_id: 9844
   - title: Data and object mapping
     theory_id: 8262
   - title: What is SQL
